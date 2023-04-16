@@ -12,15 +12,27 @@
 
 ```javascript
 const ximena = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS ],
-  tools: [React,  Node,  Styled-Components, MongoDB],
-  
+  askMeAbout: ["web dev", "tech", "design"],
+    technologies:{
+        frontEnd: {
+            js: [ "React"],
+            css: ["scss"]
+        },
+        backEnd: {
+            js: ["nodejs", "express"]
+        },
+        database: ["mongo","mySql"],
+        desing: {
+          layout: ["HTML5", "CSS"],
+          create: ["Figma"]  
+          }
 
- challenge: "I am doing other projects to continue training and learn new technologies like Java,Python and Typescript "
+
+ challenge: "I am doing other projects to continue training and learn new technologies like Java, Python and Typescript "
 }
+
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
