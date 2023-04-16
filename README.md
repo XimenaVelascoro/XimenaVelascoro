@@ -1,14 +1,14 @@
 
 <h2> Hi, I'm Ximena Velasco Full Stack Developer !  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> </h2>
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhmNmNmYzY5ZDJlMjg3MzNhNTkyODI5OTNmNGNlYjBkYTM0ODRiNyZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhmNmNmYzY5ZDJlMjg3MzNhNTkyODI5OTNmNGNlYjBkYTM0ODRiNyZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="420" >
 <p><em>Software Enginner at <a href="https://educamas.com.co/programate/">Bootcamp Educamas and Programate Academy</a></br> 
 </em></p>
 
 
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> A little more about me...  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" > A little more about me...  
 
 ```javascript
 const ximena = {
