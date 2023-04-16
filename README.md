@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**XimenaVelascoro/XimenaVelascoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi, I'm Ximena Velasco Full Stack Developer !  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> </h2>
 
-Here are some ideas to get you started:
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhmNmNmYzY5ZDJlMjg3MzNhNTkyODI5OTNmNGNlYjBkYTM0ODRiNyZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="https://educamas.com.co/programate/">Bootcamp Educamas and Programate Academy</a></br> 
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> A little more about me...  
+
+```javascript
+const ximena = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS ],
+  tools: [React,  Node,  Styled-Components, MongoDB],
+  
+
+ challenge: "I am doing other projects to continue training and learn new technologies like Java,Python and Typescript "
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
