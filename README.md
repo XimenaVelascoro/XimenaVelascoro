@@ -9,25 +9,50 @@
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" > A little more about me...  
-
-```javascript
 const ximena = {
-  askMeAbout: ["web dev", "tech", "design"],
-    technologies:{
-        frontEnd: {
-            js: [ "React"],
-            css: ["scss"]
-        },
-        backEnd: {
-            js: ["nodejs", "express"]
-        },
-        database: ["mongo","mySql"],
-        desing: {
-          layout: ["HTML5", "CSS"],
-          create: ["Figma"]  
-          }
+  role: "Junior Fullstack Developer & QA Tester in progress",
 
+  askMeAbout: [
+    "web development",
+    "qa testing",
+    "tech",
+    "frontend",
+    "backend"
+  ],
 
+  technologies: {
+    frontEnd: {
+      js: ["React"],
+      styles: ["HTML5", "CSS3", "SCSS"]
+    },
+
+    backEnd: {
+      js: ["Node.js", "Express"]
+    },
+
+    database: ["MongoDB", "MySQL"],
+
+    qaTesting: {
+      manualTesting: [
+        "bug reporting",
+        "test cases",
+        "functional testing"
+      ]
+    },
+
+    tools: ["Git", "GitHub", "Figma"]
+  },
+
+  currentlyLearning: [
+    "QA Testing",
+    "TypeScript",
+    "Java",
+    "Python"
+  ],
+
+  challenge:
+    "Continuously improving my skills through projects, practice and learning new technologies."
+};
  challenge: "I am doing other projects to continue training and learn new technologies like Java, Python and Typescript "
 }
 
