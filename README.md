@@ -12,20 +12,18 @@
 const ximena = {
   role: "Junior Fullstack Developer & QA Tester in progress",
 
-  askMeAbout: [
+```  askMeAbout: [
     "web development",
     "qa testing",
     "tech",
     "frontend",
     "backend"
   ],
-
   technologies: {
     frontEnd: {
       js: ["React"],
       styles: ["HTML5", "CSS3", "SCSS"]
     },
-
     backEnd: {
       js: ["Node.js", "Express"]
     },
