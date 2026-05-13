@@ -9,16 +9,18 @@
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" > A little more about me...  
-const ximena = {
+
+``` const ximena = {
   role: "Junior Fullstack Developer & QA Tester in progress",
 
-```  askMeAbout: [
+  askMeAbout: [
     "web development",
     "qa testing",
     "tech",
     "frontend",
     "backend"
   ],
+
   technologies: {
     frontEnd: {
       js: ["React"],
